@@ -1,0 +1,9 @@
+Three Observable Trends Based on the Data:
+
+1) No matter the age or gender, the average purchase price was a similar value all around
+
+2) Three of the most popular items purchased are also three of the most profitable items, 
+with "Final Critic" and "Oathbreaker, Last Hope of the Breaking Storm" holding first and 
+second positions in both sections.
+
+3) The game's main player demographic is a male in his 20-24 years of age. 
